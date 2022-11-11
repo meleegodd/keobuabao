@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/keobuabao/static/css/main.c3b6fd3f.css",
+    "main.js": "/keobuabao/static/js/main.901f57d7.js",
+    "static/js/787.d7a20b54.chunk.js": "/keobuabao/static/js/787.d7a20b54.chunk.js",
+    "static/media/bgGame.png": "/keobuabao/static/media/bgGame.3f5b228c7de7b7011e90.png",
+    "static/media/Pony.ttf": "/keobuabao/static/media/Pony.99ddd1e5ee531d1eb8a2.ttf",
+    "index.html": "/keobuabao/index.html",
+    "main.c3b6fd3f.css.map": "/keobuabao/static/css/main.c3b6fd3f.css.map",
+    "main.901f57d7.js.map": "/keobuabao/static/js/main.901f57d7.js.map",
+    "787.d7a20b54.chunk.js.map": "/keobuabao/static/js/787.d7a20b54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3b6fd3f.css",
+    "static/js/main.901f57d7.js"
+  ]
+}
